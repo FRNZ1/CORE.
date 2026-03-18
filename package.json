@@ -2,7 +2,7 @@
   "name": "core_page",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://FRNZ1.github.io/CORE:"
+  "homepage": "http://FRNZ1.github.io/CORE.",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.9.1",
